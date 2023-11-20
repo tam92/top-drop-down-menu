@@ -1,0 +1,35 @@
+{
+  "name": "top-drop-down-menu",
+  "version": "1.0.0",
+  "description": "This is my take on the exercise \"Drop-down menus\", from section \"Dynamic User Interface Interactions\", on The Odin Project.",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tam92/top-drop-down-menu.git"
+  },
+  "keywords": [
+    "menu",
+    "drop-down"
+  ],
+  "author": "tam92",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/tam92/top-drop-down-menu/issues"
+  },
+  "homepage": "https://github.com/tam92/top-drop-down-menu#readme",
+  "devDependencies": {
+    "eslint": "^8.54.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-plugin-import": "^2.29.0",
+    "html-webpack-plugin": "^5.5.3",
+    "prettier": "3.1.0",
+    "webpack": "^5.89.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
